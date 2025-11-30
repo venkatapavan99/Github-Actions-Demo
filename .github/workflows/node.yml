@@ -1,7 +1,7 @@
 name: Run Demo Code Node Js
 
 on:
-  push:
+  workflow_dispatch:
     branches: [ main ]
 
 jobs:
