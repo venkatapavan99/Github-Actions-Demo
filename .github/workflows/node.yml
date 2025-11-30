@@ -1,4 +1,4 @@
-name: Run Demo Code
+name: Run Demo Code Node Js
 
 on:
   push:
